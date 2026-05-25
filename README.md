@@ -2,7 +2,7 @@
 
 A simple web application built for the Web Technologies Database Connectivity Assignment. This project performs complete CRUD operations (Create, Read, Update, Delete) using an ASP.NET Core REST API for the backend and HTML/CSS/JavaScript for the frontend, connected to a SQL Server database[cite: 1].
 
-**Developed by:** Saad Khalid 
+**Developed by:** Syed Abdullah  
 **Class:** BSIT-II-B (Shift-I)  
 
 ## 🚀 Features
@@ -25,4 +25,3 @@ Follow these steps to run this project on your local machine:
 3. Run the following command to create the database and tables:
 ```bash
    dotnet ef database update
-<img width="1919" height="646" alt="Screenshot 2026-05-25 221121" src="https://github.com/user-attachments/assets/e3d8017a-13d3-42b8-8abf-714b3537c491" />
