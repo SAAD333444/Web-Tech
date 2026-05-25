@@ -19,12 +19,14 @@ A simple web application built for the Web Technologies Database Connectivity As
 ## ⚙️ Setup Instructions
 Follow these steps to run this project on your local machine:
 
-<img width="1919" height="646" alt="Screenshot 2026-05-25 221121" src="https://github.com/user-attachments/assets/ee82e6d8-2721-464b-af65-523df580b6b8" />
+
 ### 1. Backend & Database Setup
 1. Clone this repository and open the `StudentApi` folder in your terminal/command prompt.
 2. Open the `appsettings.json` file and verify that the `DefaultConnection` string matches your local SQL Server instance.
 3. Run the following command to create the database and tables:
 ```bash
    dotnet ef database update
+```
+<img width="1919" height="646" alt="Screenshot 2026-05-25 221121" src="https://github.com/user-attachments/assets/ee82e6d8-2721-464b-af65-523df580b6b8" />
 
 
